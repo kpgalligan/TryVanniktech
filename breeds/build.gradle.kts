@@ -3,7 +3,7 @@ plugins {
     kotlin("plugin.serialization")
     id("app.cash.sqldelight")
     id("com.android.library")
-    `maven-publish`
+    id("com.vanniktech.maven.publish")
 }
 
 kotlin {

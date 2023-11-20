@@ -3,7 +3,7 @@ plugins {
     kotlin("multiplatform")
     id("co.touchlab.kmmbridge")
     id("co.touchlab.skie")
-    id("com.vanniktech.maven.publish") version "0.25.3"
+    id("com.vanniktech.maven.publish")
 }
 
 kotlin {
